@@ -8,16 +8,22 @@
 <img src="./public/images/punto-1.png" alt="punto 1">
 
 <h2>Punto 2: Sumas de Constantes y Variables</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Suma de dos numeros indicados por el usuario</h2>
+<img src="./public/images/punto-3.png" alt="punto 3">
 
 <h2>Punto 4: Datos del usuario en consola</h2>
+<img src="./public/images/punto-4.png" alt="punto 4">
 
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
+<img src="./public/images/punto-5.png" alt="punto 5">
 
 <h2>Punto 6: Deteccion de mayoria de edad</h2>
+<img src="./public/images/punto-6.png" alt="punto 6">
 
 <h2>Punto 7: Seleccion de operacion aritmetica</h2>
+<img src="./public/images/punto-7.png" alt="punto 7">
 
 <h2>Punto 8: Entrada de bolera usando Switch</h2>
 
